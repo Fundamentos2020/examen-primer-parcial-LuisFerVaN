@@ -1,0 +1,29 @@
+p{
+    text-align: justify;
+    text-indent: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h6{
+    text-align: center;
+}
+#ulRow{
+    padding: 0px;
+    display: inline-block;
+    position: sticky;
+}
+#MenuPrincipal{
+    display: inline-block;
+    padding: 0px;
+    border: solid 2px;
+    margin: 0px;
+    width: 100%;
+}
+li:hover{
+    background-color: rgb(red, green, blue);
+    color: rgb(red, green, blue);
+}
